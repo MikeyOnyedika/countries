@@ -1,7 +1,8 @@
 # Countries
 json data of world countries, their alpha-2 country code and their flag
 
-source: [https://github.com/stefangabos/world_countries](https://github.com/stefangabos/world_countries)
+source (country name and code): [https://github.com/stefangabos/world_countries](https://github.com/stefangabos/world_countries)
+source (country flag): [stackoverflow](https://stackoverflow.com/a/56009882/14293577)
 
 ```json
 [
